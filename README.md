@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harman Kaler</h1>
+<h1 align="center">Hi 👋, I'm Harman Singh</h1>
 
 <h3 align="center">
 Full Stack Mobile App Engineer • AI Enthusiast
