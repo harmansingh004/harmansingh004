@@ -78,14 +78,6 @@ Task management app with reminders and scheduling.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harmansingh004&theme=tokyonight&column=4"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
