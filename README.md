@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harman Kaler</h1>
 
 <h3 align="center">
-Full Stack Mobile App Engineer • Flutter Developer • AI Enthusiast
+Full Stack Mobile App Engineer • AI Enthusiast
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Building scalable mobile applications and AI-powered systems 🚀
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=700&lines=Flutter+Developer;Full+Stack+Mobile+Engineer;AI+Enthusiast;Software+Developer+Intern+@+CDAC+Mohali" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=700&lines=Full+Stack+Mobile+Engineer;AI+Enthusiast" />
 </p>
 
 <p align="center">
@@ -60,11 +60,6 @@ AR medicine scanner providing dosage and interaction information.
 
 ## ⏳ Kairos
 Task management app with reminders and scheduling.
-
-## 🎬 Shortz
-Short-form video platform inspired by Reels.
-
----
 
 # 📊 GitHub Stats
 
